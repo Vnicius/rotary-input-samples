@@ -56,9 +56,9 @@ class MainActivity : ComponentActivity() {
 
         setContent {
             WearAppTheme {
-//                ScalingLazyColumnSample()
+                ScalingLazyColumnSample()
 //                PickerSample()
-                MultiPickerSample()
+//                MultiPickerSample()
             }
         }
     }
